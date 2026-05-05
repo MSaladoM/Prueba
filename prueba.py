@@ -11,5 +11,4 @@ print(df.info(), "\n")
 print(df.describe(), "\n")
 print(df['species'].value_counts(), "\n")
 print(df['sepal_width'].mean())
-
-print('Soy bien chida!!!!!')
+print(df['petal_width'].mean())
