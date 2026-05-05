@@ -1,8 +1,3 @@
-print('Hola mundo')
-print('Nuevo intento')
-print('ahhhhhhhhhhhhhhhhh')
-print('Nuevo cambio desde esta nueva branch')
-print('otro ahhhhhhhhhhhhhhhh')
-print('Creo que ya le estoy agarrando la onda')
-print('Estoy en main')
-print('Ahora estoy en test_4')
+a='hola '
+b='mundo'
+print(a+b)
