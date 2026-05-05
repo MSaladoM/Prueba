@@ -11,6 +11,7 @@ print(df.info(), "\n")
 print(df.describe(), "\n")
 print(df['species'].value_counts(), "\n")
 
+
 # Visualizaciones
 sns.pairplot(df, hue='species', diag_kind='kde')
 plt.show()
